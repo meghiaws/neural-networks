@@ -1,2 +1,2 @@
-from .two_input_hebb import TwoInputHebbNetwork
-from .two_input_perceptron import TwoInputPerceptron
+from .hebb import HebbNetwork
+from .perceptron import PerceptronNetwork
