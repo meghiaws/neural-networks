@@ -29,3 +29,7 @@ An Implementation of Perceptron Neural Network in Python and Jupyter
     ```bash
     ipython kernel install --user --name=venv
     ```
+
+5. Select the installed kernel when you want to use jupyter notebook in this virtual environment:
+
+![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20210827225550/Screenshot20210827225304.jpg)
