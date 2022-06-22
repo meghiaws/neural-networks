@@ -7,7 +7,7 @@ An Implementation of some neural networks like Hebb, Perceptron and Adaline Neur
 1. Clone the project:
 
     ```bash
-    git clone https://github.com/meghiaws/perceptron
+    git clone https://github.com/meghiaws/neural-networks
     ```
 
 2. Create a virtual environment and activate it:
