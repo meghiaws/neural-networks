@@ -1,6 +1,6 @@
-# Perceptron Neural Network
+# Neural Networks
 
-An Implementation of Perceptron Neural Network in Python and Jupyter
+An Implementation of some neural networks like Hebb, Perceptron and Adaline Neural Networks along with simple character recognition example using these networks to solve solve in Python and Jupyter.
 
 ## Installation
 
