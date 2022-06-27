@@ -5,7 +5,7 @@ from setuptools import find_packages, setup
 
 setup(
     description = (
-        "A hebb network implementation that simulates logical and gate."
+        "An implementation of neural networks."
     ),
     name='projects',
     author = "Mahdi Ghiasi",
